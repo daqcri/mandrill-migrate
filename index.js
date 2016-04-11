@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var mandrill = require('mandrill-api/mandrill')
 var _ = require('lodash')
 

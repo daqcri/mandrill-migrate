@@ -9,12 +9,9 @@
   "author": "Hossam Hammady <github@hammady.net>",
   "license": "MIT",
   "dependencies": {
-    "csv-parse": "^1.0.4",
     "lodash": "^4.9.0",
-    "mandrill-api": "^1.0.45",
-    "request": "^2.70.0"
+    "mandrill-api": "^1.0.45"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/daqcri/mandrill-migrate.git"
@@ -25,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/daqcri/mandrill-migrate/issues"
   },
-  "homepage": "https://github.com/daqcri/mandrill-migrate#readme"
+  "homepage": "https://github.com/daqcri/mandrill-migrate#readme",
+  "bin": {
+    "mandrill-migrate": "index.js"
+  }
 }
