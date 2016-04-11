@@ -6,6 +6,7 @@ It currently migrates the following between from the source to the target accoun
 
 - Rejection whitelist
 - Rejection blacklist
+- Templates
 
 ### Installation
 
