@@ -1,5 +1,7 @@
 ## Migration of Mandrill (by Mailchimp) accounts
 
+[![NPM version](https://badge.fury.io/js/mandrill-migrate.png)](http://badge.fury.io/js/mandrill-migrate)
+
 ### What it does
 
 It currently migrates the following between from the source to the target account:
